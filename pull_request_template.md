@@ -1,22 +1,49 @@
 ## Summary
-Briefly describe what this PR does and why.
+What does this PR do? Why?
 
 ---
 
-Trust factor (1–5):  
-<!-- 1 = risky / barely tested | 5 = very confident / well tested -->
+Trust Impact Score (1–5):
+<!-- 1 = high risk | 5 = very safe -->
 
-DB changed?:  
-<!-- Yes / No  
-If yes, describe tables, columns, migrations, indexes, etc. -->
+### Affects (check all that apply)
+- [ ] UI only
+- [ ] Data entry workflow
+- [ ] Data storage
+- [ ] Reports / counts
+- [ ] Payments / financial data
 
-UI changed?:  
-<!-- Yes / No  
-If yes, describe screens, components, layout, validation, etc. -->
+---
 
-How to test:  
+### DB changed?
+- [ ] No
+- [ ] Yes – briefly describe tables / columns / migrations
+
+### UI changed?
+- [X] No
+- [ ] Yes – briefly describe screens / validation / layout
+
+---
+
+## How to Test
 1.  
 2.  
 3.  
 
-Anything reviewers should pay special attention to:
+---
+
+## Verification
+- [ ] Manual test completed
+- [ ] Relevant report run (if applicable)
+- [ ] Edge cases tested
+- [ ] Tests added/updated (if applicable)
+
+---
+
+## Notes for Reviewers
+Anything specific to double check?
+
+---
+
+## Clinical Production Readiness
+- [ ] I confirm this will not create discrepancies in clinical reports.
