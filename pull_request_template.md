@@ -20,15 +20,17 @@ Trust Impact Score (1–5):
 - [ ] Yes – briefly describe tables / columns / migrations
 
 ### UI changed?
-- [X] No
+- [ ] No
 - [ ] Yes – briefly describe screens / validation / layout
 
 ---
 
-## How to Test
-1.  
-2.  
-3.  
+## How to Test (GHERKIN)
+Scenario: 
+  Given:
+  When:
+  Then:
+  And:
 
 ---
 
@@ -41,9 +43,4 @@ Trust Impact Score (1–5):
 ---
 
 ## Notes for Reviewers
-Anything specific to double check?
-
----
-
-## Clinical Production Readiness
-- [ ] I confirm this will not create discrepancies in clinical reports.
+Anything else that should be known for this Pull Request?
