@@ -3,15 +3,21 @@ What does this PR do? Why?
 
 ---
 
-Trust Impact Score (1–5):
-<!-- 1 = high risk | 5 = very safe -->
+## Trust Impact Score (1–5):
+<!-- 1 = high risk | 5 = very safe | Read documentation for more info-->
+
 
 ### Affects (check all that apply)
-- [ ] UI only
+- [x] UI only
 - [ ] Data entry workflow
 - [ ] Data storage
-- [ ] Reports / counts
-- [ ] Payments / financial data
+- [ ] Patient Information
+- [ ] Visit Page
+- [ ] Queue Page
+- [ ] Labs Page
+- [ ] Pharmacy / Prescriptions
+- [ ] Payments / Financial Data
+- [ ] Reporting
 
 ---
 
